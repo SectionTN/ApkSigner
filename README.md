@@ -3,10 +3,7 @@ ApkSigner is a copy of [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigne
 ## How it works
 It works just like [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigner). But this version of **ApkSigner** also can sign apps with stored bytes of private key file and template file. This is the trick to sign an app without private key and template.
 ## Adding to Project
-Add this line to module-level build.gradle dependencies:
-```nginx
-implementation 'com.github.ratul-learner:apksigner:1.0'  
-```
+Copy apksigner folder to your project directory
 ## Usage
 You can use it with private key file and template file in the same way like PseudoApkSigner.
 ```java
