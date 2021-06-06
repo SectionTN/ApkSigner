@@ -1,5 +1,5 @@
 ## Description
-ApkSigner is a copy of [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigner). But it has functionality to sign an app without private key file and template file.
+ApkSigner is a scopy of [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigner). But it has functionality to sign an app without private key file and template file.
 ## How it works
 It works just like [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigner). But this version of **ApkSigner** also can sign apps with stored bytes of private key file and template file. This is the trick to sign an app without private key and template.
 ## Adding to Project
