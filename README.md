@@ -3,7 +3,7 @@ ApkSigner is a copy of [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigne
 ## How it works
 It works just like [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigner). But this version of **ApkSigner** also can sign apps with stored bytes of private key file and template file. This is the trick to sign an app without private key and template.
 ## Adding to Project
-Copy apksigner folder to your project directory
+Copy apksigner folder to your project directory or download jar file from releases and put it in libs folder.
 ## Usage
 You can use it with private key file and template file in the same way like PseudoApkSigner.
 ```java
