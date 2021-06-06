@@ -20,4 +20,4 @@ Once you created an instance, just call it like this to sign an apk file
 ```java
 apkSigner.sign("UnsignedInputApkPath", "SignedOutputApkPath");  
 ```
-It ia recommended to use a `AsyncTask` or `Thread` for better performance in Apk signing.
+It is recommended to use a `AsyncTask` or `Thread` for better performance in Apk signing.
